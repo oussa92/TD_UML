@@ -29,11 +29,18 @@ La seule information métier disponible : il s’agit d’un système de ride-sh
 ### 1) Cloner le dépôt
 - Ouvrir VS Code
 - Ouvrir un terminal intégré
-- Cloner le dépôt du projet puis se placer dans le dossier :
+- Cloner le dépôt du projet
+
+Pour plus de détails :
+[Guide GitHub – Cloner un dépôt](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+
+- Se placer dans le dossier :
   - `TD_UML`
 
 ### 2) Créer et activer un environnement virtuel (venv)
 Créer un environnement `env`, l’activer, puis vérifier la version Python.
+Pour plus de détails sur la création d’un environnement virtuel Python :  
+[Guide GeeksforGeeks – Create virtual environment using venv](https://www.geeksforgeeks.org/python/create-virtual-environment-using-venv-python/)
 
 ### 3) Lancer la démo
 Exécuter le script :
